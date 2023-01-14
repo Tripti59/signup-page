@@ -1,0 +1,25 @@
+*{
+    background-color: #CFD2CF;
+    margin: 0;
+    padding: 0;
+}
+img{
+    height: 45vh;
+    width: 100vw;
+}
+h2{
+    text-align: center;
+}
+button{
+    margin-left: 45vw;
+    margin-top: 5px;
+    padding: 0.75rem;
+    border-radius: 2rem;
+    background-color: black;
+    color: #CFD2CF;
+    font-weight: bolder;
+    font-size: 1rem;
+}
+button:hover{
+    opacity: 0.7;
+}
